@@ -93,3 +93,4 @@ Interact with the chatbot by typing your questions or commands. The chatbot will
 This README file provides a general guide for using the project. The specific implementation details may vary depending on your unique database setup, API requirements, and desired functionalities.
 
 I hope this comprehensive README file empowers you to effectively use your Streamlit chatbot project!
+"# chatBot" 
