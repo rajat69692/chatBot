@@ -7,6 +7,5 @@ steps:
 images:
 - name: gcr.io/$cog01j3qdy6xns3g9fzvsjz14by1v/streamlit-app:latest
 
-options:
-  logging: CLOUD_LOGGING_ONLY
+
   
