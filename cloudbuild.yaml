@@ -3,4 +3,4 @@ steps:
     args: ['build', '-t', 'gcr.io/my-project/my-image', '.']
 options:
   logging: CLOUD_LOGGING_ONLY
-logsBucket: gs://logbucket-123
+  logsBucket: gs://logbucket-123
