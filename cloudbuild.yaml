@@ -6,3 +6,6 @@ steps:
 
 images:
   - 'gcr.io/$PROJECT_ID/streamlit-app:latest'
+
+options:
+  logging: NONE
